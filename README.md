@@ -4,13 +4,13 @@
 <h2> Overview </h2>
 <h3>Test metrics</h3>
 <br>
- 100 nodes
+ nodes: 100
  <br>
- edge density 10%, 30%, 50%, 70%, 90%
+ edge density: 10%, 30%, 50%, 70%, 90%
  <br><br>
- 500 nodes
+ nodes: 500
  <br>
- edge density 10%, 30%, 50%, 70%, 90%
+ edge density: 10%, 30%, 50%, 70%, 90%
 <br>
 <h3>Test methods</h3>
 <h4>D-wave </h4>
@@ -21,28 +21,28 @@ all test files under `dwave_sa' folder
 
 <br> 
 <h4>Kaiwu </h4>
-Kaiwu CIM- simulator and Kaiwu Simulated Annealing  
+Kaiwu CIM- simulator and Kaiwu Simulated Annealing  <br>
 all test files under `kaiwu' folder
 
 <h4> Scipy dual anneal </h4>
-all test files under `other_methods' folder
+all test files under `other_methods' folder<br>
 
-[Repository]([https://github.com/dwavesystems/dwave-nea](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.dual_annealing.html)
+[Repository](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.dual_annealing.html)
 <h4> Proprietary simulated annealing algorithm </h4>
 all test files under `other_methods' folder
 
 
  <h2>Instructions</h2>
 
- ``pip install numpy matplotlib itertools neal kaiwu``
- (Note: kaiwu is not publicly available)
-
+ ``pip install numpy matplotlib itertools neal kaiwu`` <br>
+ <em> (Note: kaiwu is not publicly available)</em>
+<br>
  then
-
- Go to desired test folder
- Type ``python 'testfile name``
-
-i.e. 
+<br>
+ 1)Go to desired test folder <br>
+ 2) Type ``python *testfile_ name`` <br>
+<br>
+i.e. <br><br> 
 ``cd dwave_sa``<br>
 ``python simulated_annealing_100_10.py``
 <br>
