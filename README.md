@@ -4,13 +4,15 @@
 <h2> Overview </h2>
 <h3>Test metrics</h3>
 <br>
- nodes: 100
+ 
+ **nodes: 100
  <br>
  edge density: 10%, 30%, 50%, 70%, 90%
  <br><br>
  nodes: 500
  <br>
  edge density: 10%, 30%, 50%, 70%, 90%
+ **
 <br>
 <h3>Test methods</h3>
 <h4>D-wave </h4>
