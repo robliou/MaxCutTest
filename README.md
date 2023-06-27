@@ -5,7 +5,8 @@
 <h3>Test metrics</h3>
 <br>
  
- **nodes: 100
+ **
+ nodes: 100
  <br>
  edge density: 10%, 30%, 50%, 70%, 90%
  <br><br>
