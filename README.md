@@ -42,8 +42,8 @@ Kaiwu CIM- simulator and Kaiwu Simulated Annealing  <br>
 <br><br>
  then
 <br><br>
- 1)Go to desired test folder <br>
- 2) Type <code>python *testfile_ name</code>code> <br>
+ 1) Go to desired test folder <br>
+ 2) Type <code>python </code> and then the test file name <br>
 <br>
 i.e. <br><br> 
 <code>cd dwave_sa</code>code>br>
@@ -52,9 +52,9 @@ i.e. <br><br>
 or
 <br><br>
 <code>cd kaiwu</code>code> <br>
-<code>python run_test_500_30_SA.py</code>code>
+<code>python run_test_500_30_SA.py</code>
 <br><br>
 or
 <br><br>
 <code>cd other_methods</code>code><br>
-<code>python simulated_annealing_own_algo_100_30.py</code>code>
+<code>python simulated_annealing_own_algo_100_30.py</code>
