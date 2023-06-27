@@ -38,7 +38,7 @@ Kaiwu CIM- simulator and Kaiwu Simulated Annealing  <br>
 
  <h2>Instructions</h2>
 <h5>Install requirements</h5>
- ``pip install numpy matplotlib itertools neal kaiwu`` <br><br>
+ <code>pip install numpy matplotlib itertools neal kaiwu</code>code> <br><br>
  <em> (Note: kaiwu is not publicly available)</em>
 <br><br>
  then
