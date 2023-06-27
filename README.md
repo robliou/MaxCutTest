@@ -7,23 +7,24 @@
  100 nodes
  <br>
  edge density 10%, 30%, 50%, 70%, 90%
- <br>
+ <br><br>
  500 nodes
  <br>
  edge density 10%, 30%, 50%, 70%, 90%
 <br>
-<h3>D-wave </h3>
+<h3>Test methods</h3>
+<h4>D-wave </h4>
 Simulated annealing using the D-wave ``neal`` package
 
 [Repository](https://github.com/dwavesystems/dwave-neal)
 
 <br> 
-<h3>Kaiwu </h3>
-Kaiwu CIM and Kaiwu SA  
+<h4>Kaiwu </h4>
+Kaiwu CIM- simulator and Kaiwu Simulated Annealing  
 
-<h3> Scipy dual anneal </h3>
-
-<h3> Proprietary simulated annealing </h3>
+<h4> Scipy dual anneal </h4>
+[Repository](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.dual_annealing.html)
+<h4> Proprietary simulated annealing algorithm </h4>
 
 
  <h2>Instructions</h2>h2>
