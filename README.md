@@ -3,7 +3,6 @@
 
 <h2> Overview </h2>
 <h3>Test metrics</h3>
-<br>
  
  
  <b>nodes:</b> 100
@@ -14,13 +13,12 @@
  <br>
  <b>edge density:</b> 10%, 30%, 50%, 70%, 90%
  
-<br>
-  
+ 
 <h2>Test methods</h2>
 <h3>D-wave </h3>
 Simulated annealing using the D-wave <code>neal</code> package<br>
 <em>all test files under `dwave_sa' folder</em> 
-
+<br>
 [Repository](https://github.com/dwavesystems/dwave-neal)
 
 <h3>Kaiwu </h3>
@@ -29,17 +27,20 @@ Kaiwu CIM- simulator and Kaiwu Simulated Annealing  <br>
 
 <h3> Scipy dual anneal </h3>
 <em> all test files under `other_methods' folder</em> 
-
+<br>
 [Repository](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.dual_annealing.html)
 <h3> Proprietary simulated annealing algorithm </h3>
 <em> all test files under `other_methods' folder</em> 
 
  <h2>Instructions</h2>
-<h3>Install requirements</h3>
+ 1) Clone this folder
+ <br>
+ 2) Install required packages 
+ <br>
  <code>pip install numpy matplotlib itertools neal kaiwu</code> <br><br>
  <em> (Note: kaiwu is not publicly available)</em>
 <br><br>
- then
+ 3)
 <br><br>
  1) Go to desired test folder <br>
  2) Type <code>python </code> and then the test file name <br>
