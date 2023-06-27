@@ -23,7 +23,6 @@ Simulated annealing using the D-wave <code>neal</code> package<br>
 
 [Repository](https://github.com/dwavesystems/dwave-neal)
 
-<br> 
 <h3>Kaiwu </h3>
 Kaiwu CIM- simulator and Kaiwu Simulated Annealing  <br>
 <em>all test files under `kaiwu' folder</em> 
@@ -37,7 +36,7 @@ Kaiwu CIM- simulator and Kaiwu Simulated Annealing  <br>
 
  <h2>Instructions</h2>
 <h3>Install requirements</h3>
- <code>pip install numpy matplotlib itertools neal kaiwu</code>code> <br><br>
+ <code>pip install numpy matplotlib itertools neal kaiwu</code> <br><br>
  <em> (Note: kaiwu is not publicly available)</em>
 <br><br>
  then
