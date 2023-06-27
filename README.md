@@ -5,20 +5,20 @@
 <h3>Test metrics</h3>
 <br>
  
- <b>
- nodes: 100
+ 
+ nodes: <b>100</b>
  <br>
- edge density: 10%, 30%, 50%, 70%, 90%
+ edge density: <b>10%, 30%, 50%, 70%, 90%</b>
  <br><br>
- nodes: 500
+ nodes: <b>500</b>
  <br>
- edge density: 10%, 30%, 50%, 70%, 90%
- </b>
+ edge density: <b>10%, 30%, 50%, 70%, 90%</b>
+ 
 <br>
   
 <h3>Test methods</h3>
 <h4>D-wave </h4>
-Simulated annealing using the D-wave ```neal``` package<br>
+Simulated annealing using the D-wave <code>neal</code> package<br>
 <em>all test files under `dwave_sa' folder</em> 
 
 [Repository](https://github.com/dwavesystems/dwave-neal)
@@ -35,7 +35,6 @@ Kaiwu CIM- simulator and Kaiwu Simulated Annealing  <br>
 <h4> Proprietary simulated annealing algorithm </h4>
 <em> all test files under `other_methods' folder</em> 
 
-
  <h2>Instructions</h2>
 <h5>Install requirements</h5>
  <code>pip install numpy matplotlib itertools neal kaiwu</code>code> <br><br>
@@ -44,18 +43,18 @@ Kaiwu CIM- simulator and Kaiwu Simulated Annealing  <br>
  then
 <br><br>
  1)Go to desired test folder <br>
- 2) Type ``python *testfile_ name`` <br>
+ 2) Type <code>python *testfile_ name</code>code> <br>
 <br>
 i.e. <br><br> 
-``cd dwave_sa``<br>
-``python simulated_annealing_100_10.py``
+<code>cd dwave_sa</code>code>br>
+<code>python simulated_annealing_100_10.py</code>
 <br><br>
 or
 <br><br>
-``cd kaiwu`` <br>
-``python run_test_500_30_SA.py``
+<code>cd kaiwu</code>code> <br>
+<code>python run_test_500_30_SA.py</code>code>
 <br><br>
 or
 <br><br>
-``cd other_methods``<br>
-``python simulated_annealing_own_algo_100_30.py``
+<code>cd other_methods</code>code><br>
+<code>python simulated_annealing_own_algo_100_30.py</code>code>
