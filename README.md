@@ -6,37 +6,37 @@
 <br>
  
  
- nodes: <b>100</b>
+ <b>nodes:</b> 100
  <br>
- edge density: <b>10%, 30%, 50%, 70%, 90%</b>
+ <b>edge density:</b> 10%, 30%, 50%, 70%, 90%
  <br><br>
- nodes: <b>500</b>
+ <b>nodes:</b> 500
  <br>
- edge density: <b>10%, 30%, 50%, 70%, 90%</b>
+ <b>edge density:</b> 10%, 30%, 50%, 70%, 90%
  
 <br>
   
-<h3>Test methods</h3>
-<h4>D-wave </h4>
+<h2>Test methods</h2>
+<h3>D-wave </h3>
 Simulated annealing using the D-wave <code>neal</code> package<br>
 <em>all test files under `dwave_sa' folder</em> 
 
 [Repository](https://github.com/dwavesystems/dwave-neal)
 
 <br> 
-<h4>Kaiwu </h4>
+<h3>Kaiwu </h3>
 Kaiwu CIM- simulator and Kaiwu Simulated Annealing  <br>
 <em>all test files under `kaiwu' folder</em> 
 
-<h4> Scipy dual anneal </h4>
+<h3> Scipy dual anneal </h3>
 <em> all test files under `other_methods' folder</em> 
 
 [Repository](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.dual_annealing.html)
-<h4> Proprietary simulated annealing algorithm </h4>
+<h3> Proprietary simulated annealing algorithm </h3>
 <em> all test files under `other_methods' folder</em> 
 
  <h2>Instructions</h2>
-<h5>Install requirements</h5>
+<h3>Install requirements</h3>
  <code>pip install numpy matplotlib itertools neal kaiwu</code>code> <br><br>
  <em> (Note: kaiwu is not publicly available)</em>
 <br><br>
