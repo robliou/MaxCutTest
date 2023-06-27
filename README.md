@@ -34,13 +34,13 @@ Kaiwu CIM- simulator and Kaiwu simulated annealing  <br>
 <em> 所有测试文件在‘other_methods'文件夹下  </em> 
 
  <h2>指示 </h2>
- <h4>克隆此文件夹Clone this folder</h4>
+ <h4>克隆此文件夹 Clone this folder</h4>
    <code>git clone</code>  
 
-<h4>安装所需的包 </h4>
+<h4>安装所需的包 Install dependencies</h4>
   <code>pip install numpy matplotlib itertools neal kaiwu</code> <br><br>
  <em> (注：kaiwu不公开）</em>
-  <h4>启动测试文件  </h4>
+  <h4>启动测试文件 Launch test files </h4>
   a) 转到所需的测试文件夹   <br>
  b) 输入 <code>python </code>，然后输入测试文件名  <br>
 <br>
