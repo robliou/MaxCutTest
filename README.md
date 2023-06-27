@@ -19,7 +19,7 @@ MaxCut 问题的各种测试方法的存储库 (Repository for various testing m
 <h3>D-wave </h3>
 Simulated annealing using the D-wave <code>neal</code> package<br>
 <em>所有测试文件在`dwave_sa' 文件夹下   </em> 
-<br>
+<br><br>
 存储库:<br>
 (https://github.com/dwavesystems/dwave-neal)
 
@@ -29,7 +29,7 @@ Kaiwu CIM- simulator and Kaiwu simulated annealing  <br>
 
 <h3> Scipy dual anneal </h3>
 <em> 所有测试文件在‘other_methods'文件夹下  </em> 
-<br>
+<br><br>
 存储库:<br>
 (https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.dual_annealing.html)
 <h3> Proprietary simulated annealing algorithm </h3>
