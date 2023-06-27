@@ -33,17 +33,17 @@ Kaiwu CIM- simulator and Kaiwu Simulated Annealing  <br>
 <em> all test files under `other_methods' folder</em> 
 
  <h2>Instructions</h2>
- 1) Clone this folder
- <br>
- 2) Install required packages 
- <br>
+ 1) <b>Clone this folder</b>
+ <br><br>
+ 2)  <b>Install required packages </b>
+ <br><br>
  <code>pip install numpy matplotlib itertools neal kaiwu</code> <br><br>
  <em> (Note: kaiwu is not publicly available)</em>
 <br><br>
- 3)
-<br><br>
- 1) Go to desired test folder <br>
- 2) Type <code>python </code> and then the test file name <br>
+ 3) <b>Launch test files</b>
+<br>
+ a) Go to desired test folder <br>
+ b) Type <code>python </code> and then the test file name <br>
 <br>
 i.e. <br><br> 
 <code>cd dwave_sa</code><br>
