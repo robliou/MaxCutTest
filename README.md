@@ -44,16 +44,16 @@ Kaiwu CIM- simulator and Kaiwu simulated annealing  <br>
   a) 转到所需的测试文件夹   <br> <br>
  b) 输入 <code>python </code>，然后输入测试文件名  <br>
 <br>
-比如 <br><br> 
+比如: <br><br> 
 <code>cd dwave_sa</code><br> <br>
 <code>python simulated_annealing_100_10.py</code>
 <br><br>
-或
+或:
 <br><br>
 <code>cd kaiwu</code><br> <br>
 <code>python run_test_500_30_SA.py</code>
 <br><br>
-或
+或:
 <br><br>
 <code>cd other_methods</code><br> <br>
 <code>python simulated_annealing_own_algo_100_30.py</code>
