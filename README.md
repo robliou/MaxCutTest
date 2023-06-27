@@ -1,7 +1,7 @@
 # MaxCutTest
  MaxCut 问题的各种测试方法的存储库 (Repository for various testing methods for MaxCut problem)
 
-<h2> 概述 Overview </h2>
+<h2> 概述  </h2>
 <h3>测试指标 Test metrics</h3>
  
  
