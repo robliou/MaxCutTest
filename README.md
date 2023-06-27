@@ -22,7 +22,7 @@ Simulated annealing using the D-wave <code>neal</code> package<br>
 <https://github.com/dwavesystems/dwave-neal>
 
 <h3>Kaiwu </h3>
-Kaiwu CIM- simulator and Kaiwu Simulated Annealing  <br>
+Kaiwu CIM- simulator and Kaiwu simulated annealing  <br>
 <em>所有测试文件在‘Kaiwu'文件夹下  </em> 
 
 <h3> Scipy dual anneal </h3>
@@ -30,17 +30,18 @@ Kaiwu CIM- simulator and Kaiwu Simulated Annealing  <br>
 <br>
 <https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.dual_annealing.html>
 <h3> Proprietary simulated annealing algorithm </h3>
+ 开发了一种模拟退火算法，无需使用任何算法软件包. 注意，对于每个测试用例 (iterations)，必须手动设置迭代次数和冷却速率(cooldown rate).
 <em> 所有测试文件在‘other_methods'文件夹下  </em> 
 
  <h2>指示 </h2>
  <h4>克隆此文件夹Clone this folder</h4>
    <code>git clone</code>  
 
-<h4>安装所需的包 Install required packages </h4>
+<h4>安装所需的包 </h4>
   <code>pip install numpy matplotlib itertools neal kaiwu</code> <br><br>
- <em> (注：kaiwu不公开 Note: kaiwu is not publicly available)</em>
-  <h4>启动测试文件 Launch test files</h4>
-  a) 转到所需的测试文件夹 Go to desired test folder <br>
+ <em> (注：kaiwu不公开）</em>
+  <h4>启动测试文件  </h4>
+  a) 转到所需的测试文件夹   <br>
  b) 输入 <code>python </code>，然后输入测试文件名  <br>
 <br>
 比如 <br><br> 
