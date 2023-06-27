@@ -30,7 +30,7 @@ Kaiwu CIM- simulator and Kaiwu simulated annealing  <br>
 <br>
 <https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.dual_annealing.html>
 <h3> Proprietary simulated annealing algorithm </h3>
- 开发了一种模拟退火算法，无需使用任何算法软件包. 注意，对于每个测试用例 (iterations)，必须手动设置迭代次数和冷却速率(cooldown rate).
+ 开发了一种模拟退火算法，无需使用任何算法软件包.<br> 注意，对于每个测试用例 (iterations)，必须手动设置迭代次数和冷却速率(cooldown rate).<br>
 <em> 所有测试文件在‘other_methods'文件夹下  </em> 
 
  <h2>指示 </h2>
