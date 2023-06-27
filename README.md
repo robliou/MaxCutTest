@@ -20,6 +20,7 @@ MaxCut 问题的各种测试方法的存储库 (Repository for various testing m
 Simulated annealing using the D-wave <code>neal</code> package<br>
 <em>所有测试文件在`dwave_sa' 文件夹下   </em> 
 <br>
+存储库:<br>
 (https://github.com/dwavesystems/dwave-neal)
 
 <h3>Kaiwu </h3>
@@ -29,6 +30,7 @@ Kaiwu CIM- simulator and Kaiwu simulated annealing  <br>
 <h3> Scipy dual anneal </h3>
 <em> 所有测试文件在‘other_methods'文件夹下  </em> 
 <br>
+存储库:<br>
 (https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.dual_annealing.html)
 <h3> Proprietary simulated annealing algorithm </h3>
  开发了一种模拟退火算法，无需使用任何算法软件包.<br> 注意，对于每个测试用例 (iterations)，必须手动设置迭代次数和冷却速率(cooldown rate).<br>
