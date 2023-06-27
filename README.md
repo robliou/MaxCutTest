@@ -5,7 +5,7 @@
 <h3>Test metrics</h3>
 <br>
  
- **
+ <b>
  nodes: 100
  <br>
  edge density: 10%, 30%, 50%, 70%, 90%
@@ -13,11 +13,12 @@
  nodes: 500
  <br>
  edge density: 10%, 30%, 50%, 70%, 90%
- **
+ </b>
 <br>
+  
 <h3>Test methods</h3>
 <h4>D-wave </h4>
-Simulated annealing using the D-wave ``neal`` package<br>
+Simulated annealing using the D-wave ```neal``` package<br>
 <em>all test files under `dwave_sa' folder</em> 
 
 [Repository](https://github.com/dwavesystems/dwave-neal)
