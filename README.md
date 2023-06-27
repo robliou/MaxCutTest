@@ -1,5 +1,5 @@
 # MaxCutTest
- Repository for various testing methods for MaxCut problem:
+ Repository for various testing methods for MaxCut problem MaxCut 问题的各种测试方法的存储库
 
 <h2> Overview </h2>
 <h3>Test metrics</h3>
