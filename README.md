@@ -3,16 +3,21 @@
 
 <h2> Overview </h2>
 <h3>Test metrics</h3>
-
+<br>
  100 nodes
+ <br>
  edge density 10%, 30%, 50%, 70%, 90%
+ <br>
  500 nodes
+ <br>
  edge density 10%, 30%, 50%, 70%, 90%
+<br>
+<h3>D-wave </h3>
+Simulated annealing using the D-wave ``neal`` package
 
-<h3>Dwave </h3>
-Simulated annealing using the ``neal`` package, Kaiwu CIM, Kaiwu simulated annealing, scipy- dual anneal, and proprietary simulated annealing solutions. 
+[Repository](https://github.com/dwavesystems/dwave-neal)
 
-[Repository](https://github.com/dwavesystems/dwave-neal) 
+<br> 
 <h3>Kaiwu </h3>
 Kaiwu CIM and Kaiwu SA  
 
@@ -32,15 +37,15 @@ Kaiwu CIM and Kaiwu SA
  Type ``python 'testfile name``
 
 i.e. 
-cd dwave_sa
-python simulated_annealing_100_10.py
-
+``cd dwave_sa``<br>
+``python simulated_annealing_100_10.py``
+<br>
 or
-
-cd kaiwu
-python run_test_500_30_SA.py
-
+<br>
+``cd kaiwu`` <br>
+``python run_test_500_30_SA.py``
+<br>
 or
-
-cd other_methods
-python simulated_annealing_own_algo_100_30.py
+<br>
+``cd other_methods``<br>
+``python simulated_annealing_own_algo_100_30.py``
